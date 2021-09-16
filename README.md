@@ -26,7 +26,7 @@ spring.mail.password= [STRING DE SENHA GERADA NA AWS]
 Insira também suas credenciais do **RabbitMQ**:
 
 ```
-spring.rabbitmq.addresses= [STRING GERADA NO **CLOUDAMPQ**
+spring.rabbitmq.addresses= [STRING GERADA NO CLOUDAMPQ]
 spring.rabbitmq.queue= [NOME DA FILA]
 ```
 

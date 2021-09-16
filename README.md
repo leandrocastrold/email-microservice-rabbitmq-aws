@@ -3,7 +3,7 @@
 Projeto desenvolvido para pôr em prática conhecimentos sobre:
 
 - Mensageria, com o *Message Broker* **RabbitMQ**
-- Serviço de envios de email (*SES*) com o **AWS**(*Amazon Simple Email Service*)
+- Serviço de envios de email (*SES*) com o **AWS** (*Amazon Simple Email Service*)
 - Banco de Dados **PostgreSQL**
 - Conteineres, com **Docker**
 
